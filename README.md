@@ -45,7 +45,7 @@ Parameter to build a USB key
 
 2. Modifies an existing OSDCloud template to add in the custom URL
 
-.\OSDCloud_Starter.ps1 -CustomURL https://raw.githubusercontent.com/brookspeppin/OSDCLoud/master/OSDCloud/Brooks-OSDCloud.ps1 -BuildISO
+.\OSDCloud_Starter.ps1 -CustomURL https://raw.githubusercontent.com/gvaugha/OSDCloud/main/GDV-OSDCloud.ps1 -BuildISO
 
 3. Builds a USB key
 
